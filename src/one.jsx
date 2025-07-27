@@ -60,7 +60,7 @@ export default function DivI() {
                                         <h4 className='text-5xl mb-8 text-start text-about abt animate__animated animate__bounce' >About Me</h4>
                                         <p className='text-introclr text-2xl font-intro text-justify my-auto'>
                                             I am Priya Chauhan from Jamnagar. I am pursuing a Bachelor of Technology (B.Tech) in Computer Engineering at Marwadi University, Rajkot, Gujarat. With an expected graduation in May 2026 and a current CGPA is 7.69.<br /><br />
-                                            Passionate about front-end and MERN stack development, UI/UX design with skills in problem-solving.
+                                            Passionate about front-end and UI/UX design with skills in problem-solving.
                                         </p>
                                     </div>
                                     <div className='justify-end ml-50 md:flex-1 w-1/2'>
@@ -119,8 +119,8 @@ export default function DivI() {
                                     <h4 className='text-5xl text-start text-about abt my-auto' data-aos="fade-right">Skills :-</h4>
                                     {/* </div> */}
                                     <div className='justify-start flex-initial md:flex-1 w-1/2 font-medium text-gray-300 text-justify'>
-                                        <p>I have technical skills in front-end technologies including HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS. I am also proficient in backend development using Node.js, Express.js, and REST APIs, with experience in working with MongoDB for database management. In terms of programming languages, I am comfortable with JavaScript.</p>
-                                        <br /><p>Alongside my technical abilities, I have soft skills such as problem-solving, time management, leadership, teamwork, and the ability to learn quickly and adapt to new environments.</p><br />
+                                        <p>I have technical skills in front-end technologies including HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS. I am also proficient in REST APIs. In terms of programming languages, I am comfortable with JavaScript.</p>
+                                        <br /><p>Alongside my technical abilities, I have soft skills such as problem-solving, time management, leadership, teamwork, and the ability to learn quickly and adapt to new skills.</p><br />
                                         <h6 className='text-3xl text-red-200'>Languages I Know:</h6><br />
                                         <p>I am fluent in Gujarati and Hindi, and I have a working proficiency in English as a second language.</p>
                                     </div>
@@ -154,7 +154,7 @@ export default function DivI() {
                                                 <div className="font-bold text-gray-100 text-xl mb-2">Mobile cloth app</div>
                                             </div>
                                             <div className='mb-6'>
-                                                <span className="inline-block bg-gray-700 rounded-xl px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mt-5"><a href='https://www.figma.com/proto/kbAESatN6PyfkZfECnSIjG/PA--Project?node-id=0-1&p=f&t=pdDephxa9NFniQTf-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A2690' target="_blank">Show</a></span>
+                                                <span className="inline-block bg-gray-700 rounded-xl px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mt-5"><a href='https://www.figma.com/proto/kbAESatN6PyfkZfECnSIjG/Cloth-App?node-id=8-2690&p=f&t=i2CVPwVO2gHwVreL-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A2690' target="_blank">Show</a></span>
                                             </div>
                                         </div>
                                         <div className="max-w-sm rounded overflow-hidden w-90 shadow-lg mt-20 bg-stone-800 hover:scale-105"  data-aos="flip-left"
@@ -200,7 +200,7 @@ export default function DivI() {
                                         <span className='flex m-auto text-2xl hover:text-mail cursor-pointer mx-5' onClick={() => window.location = 'mailto:priyachauhan4824@gmail.com'}><MdEmail className='text-3xl mt-auto mr-3'/> priyachauhan4824@gmail.com</span>
                                         <a className='flex m-auto text-2xl hover:text-phn cursor-pointer mx-5 ' href='tel:+91-940-864-3001'><FaPhoneAlt className='text-3xl m-auto mr-3'/> +91&nbsp;9408643001 </a>
                                         <a className='flex m-auto text-2xl hover:text-whtapp cursor-pointer mx-5' href='tel:+91-940-864-3001'><FaWhatsapp className='text-3xl mt-auto mr-3'/> +91&nbsp;9408643001 </a>
-                                        <a className='flex m-auto text-2xl hover:text-git cursor-pointer mx-5' href='https://github.com/priyagithub19?tab=repositories' target='_blank'><FaGithub className='text-3xl mt-auto mr-3'/> +91&nbsp;9408643001 </a>
+                                        <a className='flex m-auto text-2xl hover:text-git cursor-pointer mx-5' href='https://github.com/priyagithub19' target='_blank'><FaGithub className='text-3xl mt-auto mr-3'/> priyagithub19 </a>
                                     </div>
                                 </div>
                             </div>
