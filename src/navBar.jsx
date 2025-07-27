@@ -1,6 +1,5 @@
 import { Link } from "react-scroll";
-import lg from './assets/p.png'
-import { useState } from "react";
+import lg from './assets/P.png'
 import 'animate.css';
 
 
