@@ -154,7 +154,7 @@ export default function DivI() {
                                                 <div className="font-bold text-gray-100 text-xl mb-2">Mobile cloth app</div>
                                             </div>
                                             <div className='mb-6'>
-                                                <span className="inline-block bg-gray-700 rounded-xl px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mt-5"><a href='https://www.figma.com/proto/kbAESatN6PyfkZfECnSIjG/Cloth-App?node-id=8-2690&p=f&t=i2CVPwVO2gHwVreL-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A2690' target="_blank">Show</a></span>
+                                                <span className="inline-block bg-gray-700 rounded-xl px-3 py-1 text-sm font-semibold text-gray-100 mr-2 mt-5"><a href='https://www.figma.com/proto/kbAESatN6PyfkZfECnSIjG/Cloth-App?node-id=8-2690&p=f&t=2OsA5PdCFKjH6QfH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=366%3A247&show-proto-sidebar=1' target="_blank">Show</a></span>
                                             </div>
                                         </div>
                                         <div className="max-w-sm rounded overflow-hidden w-90 shadow-lg mt-20 bg-stone-800 hover:scale-105"  data-aos="flip-left"
